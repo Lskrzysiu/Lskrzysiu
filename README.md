@@ -1,4 +1,6 @@
 ## Hi there 👋
+Just some stuff here
+⚡ Fun fact: You're awesome!
 
 <!--
 **Lskrzysiu/Lskrzysiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
