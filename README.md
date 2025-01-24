@@ -1,5 +1,5 @@
 ## Hi there 👋
-Just some stuff here
+Just some stuff here <br>
 ⚡ Fun fact: You're awesome!
 
 <!--
